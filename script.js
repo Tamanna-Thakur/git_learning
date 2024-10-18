@@ -4,3 +4,6 @@ addEventListener
 function hii(){
     console.log(hello);
 }
+for(i=0;i<4;i++){
+    
+}
