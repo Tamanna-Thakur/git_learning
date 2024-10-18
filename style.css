@@ -3,5 +3,6 @@ body{
     padding-inline: 70px;
     overflow: hidden;
     display: flex;
+    align-items: center;
 
 }
