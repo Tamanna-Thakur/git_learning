@@ -3,6 +3,7 @@ console.log('hello hii');
 addEventListener
 function hii(){
     console.log(hello);
+    console.log('hello')
 }
 for(i=0;i<4;i++){
     
